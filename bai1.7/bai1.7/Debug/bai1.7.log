@@ -1,0 +1,5 @@
+﻿  bai1.7.cpp
+f:\source\visualc\workspace\vietjack\bai1.7\bai1.7\bai1.7.cpp(9): warning C4305: 'initializing': truncation from 'int' to 'char'
+f:\source\visualc\workspace\vietjack\bai1.7\bai1.7\bai1.7.cpp(9): warning C4309: 'initializing': truncation of constant value
+  bai1.7.vcxproj -> F:\Source\VisualC\WorkSpace\Vietjack\bai1.7\Debug\bai1.7.exe
+  bai1.7.vcxproj -> F:\Source\VisualC\WorkSpace\Vietjack\bai1.7\Debug\bai1.7.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  bai1.9.cpp
+f:\source\visualc\workspace\vietjack\bai1.9\bai1.9\bai1.9.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+f:\source\visualc\workspace\vietjack\bai1.9\bai1.9\bai1.9.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  bai1.9.vcxproj -> F:\Source\VisualC\WorkSpace\Vietjack\bai1.9\Debug\bai1.9.exe
+  bai1.9.vcxproj -> F:\Source\VisualC\WorkSpace\Vietjack\bai1.9\Debug\bai1.9.pdb (Full PDB)
